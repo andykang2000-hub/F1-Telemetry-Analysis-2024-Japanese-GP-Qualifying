@@ -90,21 +90,6 @@ f1-telemetry-analysis/
     └── japan_gp_qualifying_VER_HAM_final.png
 ```
 
----
-
-## Part of a Larger Portfolio
-
-This is **Project 1** of a 5-project F1 data science portfolio targeting roles in motorsport analytics:
-
-| # | Project | Skills |
-|---|---------|--------|
-| ✅ 1 | Telemetry Analysis (this project) | FastF1, matplotlib, time-series visualisation |
-| 2 | Circuit Dominance Map | Geospatial plotting, comparative analysis |
-| 3 | Tire Compound Classifier | scikit-learn, classification |
-| 4 | Pit Stop Strategy Optimizer | optimisation, simulation |
-| 5 | Qualifying Lap Predictor | regression, feature engineering |
-
----
 
 ## Data Source
 
