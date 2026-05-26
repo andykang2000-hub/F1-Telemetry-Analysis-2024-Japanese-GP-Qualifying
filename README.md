@@ -78,6 +78,13 @@ The script will download session data on first run (cached to `f1_cache/` for su
 
 ---
 
+## Future Improvements
+
+'''
+We compared VER and HAM as if they're in a direct battle, but in 2024 Japanese GP qualifying HAM was in a Mercedes and finished much further back. A more meaningful comparison would be teammates (VER vs PER, or HAM vs RUS) because teammates share the same car, so differences are purely driver-driven. 
+I would like to add a "car vs driver contribution" estimate in the future — by comparing VER vs PER on the same car, we can estimate how much of the gap to other teams is car and how much is driver.
+'''
+
 ## Project Structure
 
 ```
